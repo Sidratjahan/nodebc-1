@@ -15,8 +15,7 @@
                 String url ="jdbc:mysql:/"
 
 ?>
-
-
+p
 
 <?php
 
